@@ -6,7 +6,7 @@ import org.apache.http.HttpStatus;
 import ru.yandex.practicum.client.courier.CourierClient;
 import ru.yandex.practicum.client.order.OrderClient;
 import ru.yandex.practicum.model.courier.Courier;
-import ru.yandex.practicum.model.courier.courierForAuth.CourierForAuth;
+import ru.yandex.practicum.model.courier.courierforauth.CourierForAuth;
 import ru.yandex.practicum.service.CourierGenerator;
 
 import static org.hamcrest.CoreMatchers.equalTo;

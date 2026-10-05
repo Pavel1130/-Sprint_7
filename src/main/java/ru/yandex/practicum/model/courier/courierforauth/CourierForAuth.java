@@ -1,4 +1,4 @@
-package ru.yandex.practicum.model.courier.courierForAuth;
+package ru.yandex.practicum.model.courier.courierforauth;
 
 import lombok.*;
 
